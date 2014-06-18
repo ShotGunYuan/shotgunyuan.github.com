@@ -13,11 +13,11 @@ description_length: 200
 # so be sure to set them if your theme uses them.
 #
 title : Mr
-address: EverCoding.net
-tagline: Coder.
+address: ShotGunYuan.github.com
+tagline: Coderr
 author :
   name : ShotGun
-  #email : g.everax@gmail.com
+  email : shotgunyuan@163.com
   github : ShotGunYuan
   twitter : username
   feedburner : feedname
