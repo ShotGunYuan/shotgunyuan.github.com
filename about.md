@@ -23,5 +23,5 @@ group: "navigation"
 
 ### 联系我
 
-我的邮箱：shotgunyuan@163.com 
+我的邮箱：shotgunyuan(at)163.com 
 

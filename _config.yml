@@ -12,9 +12,9 @@ description_length: 200
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Mr
-address: ShotGunYuan.github.com
-tagline: Coderr
+title : Mr Coder
+address: mrcoder.net
+tagline: 
 author :
   name : ShotGun
   email : shotgunyuan@163.com
@@ -31,7 +31,7 @@ start_year: "2014"
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://ShotGunYuan.github.com
+production_url : http://mrcoder.net
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
