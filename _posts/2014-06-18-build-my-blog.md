@@ -16,4 +16,4 @@ tags: []
 	
 最近[谷歌][]被墙了
 
-[谷歌]: http//:www.google.com.hk
+[谷歌]: http://www.google.com.hk
