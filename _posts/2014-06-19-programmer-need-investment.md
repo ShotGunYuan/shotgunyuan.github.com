@@ -3,7 +3,7 @@ layout: post
 title: "程序员需要进行的投资"
 tagline: "Programmer Need Investment"
 description: "程序员需要进行的一些投资"
-tags: [健康,学习,书籍]
+tags: [学习,书籍]
 ---
 {% include JB/setup %}
 
