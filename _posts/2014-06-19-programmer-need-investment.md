@@ -29,7 +29,7 @@ tags: [学习,书籍]
 
 每年只需花费一点点钱，就能让你看起来和别人与众不同。我自己买的这个lambdageek域名只花了13美金而已。个人域名还能给你的个人品牌添加自信和专业，让潜在的用户或者同事了解到，你自己究竟是什么样的。当然了，这假设你的域名不能是什么乱七八糟.com。
 
-###一个活跃的Github帐户
+###一个活跃的[Github][]帐户
 
 作品集之于艺术家就犹如Github之于开发人员。这点就不必多说了。
 
@@ -50,3 +50,4 @@ tags: [学习,书籍]
 转自：Java驿站，[原文链接][]
 
 [原文链接]: http://it.deepinmind.com/%E5%85%B6%E5%AE%83/2014/06/09/things-a-software-developer-must-invest-in.html
+[Github]: http://www.github.com
