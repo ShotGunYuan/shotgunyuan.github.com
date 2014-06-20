@@ -12,7 +12,7 @@ tags: [VmWare,虚拟机,Mac,OS,操作系统]
 ###准备工作
 
 1.	虚拟机系统：vmware workstation 10。
-2.	Mac Os Mountain Lion。[Mac Os Mountain Lion 10.8.5镜像下载][]
+2.	Mac Os Mountain Lion。Mac Os Mountain Lion 10.8.5镜像[下载][]
 3.	注意还需要VmWare的Mac补丁，没有这个是无法成功安装的。[VmWare10的Mac补丁下载][]
 4.	安装中使用到的工具：好压、ultraISO。
 
@@ -45,4 +45,4 @@ tags: [VmWare,虚拟机,Mac,OS,操作系统]
 
 
 [点击下载Mac Os Mountain Lion 10.8.5镜像]:http://kuai.xunlei.com/d/dBhJEAIdmABxhjZS8e7
-[VmWare10的Mac补丁下载]:http://pan.baidu.com/s/1A9IEB
+[下载]:http://pan.baidu.com/s/1A9IEB
