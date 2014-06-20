@@ -13,7 +13,7 @@ tags: [mysql,数据库]
 
 解决方法：
 	
-	--执行下面的语句，将max_allowed_packet设置为*文件大小**1024*1024(如：100M)
+	--执行下面的语句，将max_allowed_packet设置为(文件大小*1024*1024  如:100M)
 	set global max_allowed_packet=100*1024*1024;
 	
 **记得恢复完数据库之后将max_allowed_packet的值改回去，以免影响性能。**
